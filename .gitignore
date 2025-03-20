@@ -1,0 +1,8 @@
+target/
+src/main/resources/apk/
+src/main/resources/driver/
+src/main/java/academy/teenfuture/crse/api/
+src/main/java/academy/teenfuture/crse/autotestgrasp/
+report/
+screenshots/
+video/
